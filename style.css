@@ -1,0 +1,43 @@
+
+body{
+   
+	margin:30px;
+	/*background-color: blue;*/
+	background-image: linear-gradient(to right,violet,orange);
+}
+section{
+	/*margin: 10px;*/
+    background-color:pink;
+    text-align: center;
+}
+h1{
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 30px;
+	
+}
+.info{
+font-family: 'Lora', serif;
+font-size:30px;
+
+}
+input{
+	font-size: 20px;
+	margin-bottom: 10px;
+	color:red;
+}
+.img{
+	margin: 10px;
+}
+button{
+	
+	background-color:;
+	width: 20%;
+	height: 20%;
+	padding: 5px;
+	margin: 5px;
+}
+ button:hover {
+ 	color:white;
+	background-image:linear-gradient(to left ,orange, violet);
+
+}
